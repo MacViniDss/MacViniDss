@@ -1,4 +1,4 @@
-# MacViniDss-
+# MacViniDss
 
 Profissional em formação em Ciência de Dados, focado em Machine Learning (ML), possuo certificação de proficiência em Inglês Nível C1 (Avançado), garantindo comunicação técnica e profissional fluente em ambientes internacionais. Buscando oportunidades que permitam aplicar habilidades analíticas avançadas e experiência prática em modelagem de dados para soluções de negócio.
 
