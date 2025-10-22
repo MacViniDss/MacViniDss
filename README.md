@@ -8,8 +8,12 @@
 <h3 align="left">👩‍💻  Info:</h3>
 
 ###
+Profissional em formação em Ciência de Dados
 
-<p align="left">Profissional em formação em Ciência de Dados<br><br>- 🔭 focado em Machine Learning (ML)<br>- 📚 possuo certificação de proficiência em Inglês Nível C1 (Avançado)<br>- ⚡ Experiência Militar<br>- Projeto destaque: [Wine Price Predict](https://github.com/MacViniDss/DataScience-projects/blob/main/Projetos_praticos/Wine_price_predict/README.md) </p> [I'm an inline-style link](https://www.somewebsite.com)
+- 🔭 Focado em Machine Learning (ML)
+- 📚 Possuo proficiência em Inglês Nível C1 (Avançado)
+- ⚡ Experiência Militar
+- Projeto destaque: [Wine Price Predict](https://github.com/MacViniDss/DataScience-projects/blob/main/Projetos_praticos/Wine_price_predict/README.md)
 
 ###
 
