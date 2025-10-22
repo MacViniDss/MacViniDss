@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">Profissional em formação em Ciência de Dados<br><br>- 🔭 focado em Machine Learning (ML)<br>- 📚 possuo certificação de proficiência em Inglês Nível C1 (Avançado)<br>- ⚡ Experiência Militar (Desde 2022)</p>
+<p align="left">Profissional em formação em Ciência de Dados<br><br>- 🔭 focado em Machine Learning (ML)<br>- 📚 possuo certificação de proficiência em Inglês Nível C1 (Avançado)<br>- ⚡ Experiência Militar</p>
 
 ###
 
