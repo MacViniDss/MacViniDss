@@ -8,7 +8,7 @@
 <h3 align="left">👩‍💻  Info:</h3>
 
 ###
-Profissional em formação em Ciência de Dados
+Cientista de Dados em formação
 
 - 🔭 Focado em Machine Learning (ML)
 - 📚 Possuo proficiência em Inglês Nível C1 (Avançado)
