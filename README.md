@@ -47,16 +47,6 @@ Profissional em formação em Ciência de Dados
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MacViniDss&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
 Experiências e Formação Adicionais:
 - Experiência Militar (Desde 2022): Atuação no quartel, que moldou competências essenciais como Liderança, Disciplina, Resiliência e Gestão de Grupos (Cabo 2023), aplicáveis à gestão de projetos e equipes de dados.
 - Experiência Internacional: Intercâmbio de 6 meses no Canadá (2020), que expandiu a visão de mundo, autonomia e capacidade de adaptação.
