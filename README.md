@@ -7,6 +7,9 @@
 
 <h3 align="left">👩‍💻  Info:</h3>
 
+Por que quer trabalhar com IA na prática:
+Acredito que a inteligência artificial já é parte inevitável do presente, e quero trabalhar diretamente com ela na prática não só estudando conceitos, mas construindo soluções reais. Entrei na área de dados justamente para transformar tecnologia em algo útil para o dia a dia, criando aplicações que resolvem problemas concretos. Ainda esse ano planejo criar chatbots com LLMs e pequenos projetos de regressão/classificação para previsão, sempre buscando conectar cliente, dados e produto. Quero aprender, experimentar, errar e melhora.
+
 ###
 Cientista de Dados em formação
 
