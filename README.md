@@ -7,11 +7,13 @@
 
 <h3 align="left">👩‍💻  Info:</h3>
 
-Por que quer trabalhar com IA na prática:
-- Acredito que a inteligência artificial já é parte inevitável do presente, e quero trabalhar diretamente com ela na prática não só estudando conceitos, mas construindo soluções reais. Entrei na área de dados justamente para transformar tecnologia em algo útil para o dia a dia, criando aplicações que resolvem problemas concretos. Ainda esse ano planejo criar chatbots com LLMs e pequenos projetos de regressão/classificação para previsão, sempre buscando conectar cliente, dados e produto. Quero aprender, experimentar, errar e melhora.
+Python • SQL • Machine Learning • IA Generativa • Automação de Dados  
+
+Construo soluções de dados e IA aplicadas a problemas reais de negócio,
+desde automações e análises até sistemas com LLMs em produção.
 
 ###
-Cientista de Dados em formação
+Cientista de Dados Jr | AI Engineer Jr
 
 - 🔭 Focado em Machine Learning (ML)
 - 📚 Possuo proficiência em Inglês Nível C1 (Avançado)
@@ -33,14 +35,9 @@ Cientista de Dados em formação
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
