@@ -16,8 +16,7 @@ desde automações e análises até sistemas com LLMs em produção.
 Cientista de Dados Jr | AI Engineer Jr
 
 - 🔭 Focado em Machine Learning (ML)
-- 📚 Possuo proficiência em Inglês Nível C1 (Avançado)
-- ⚡ Experiência Militar
+- 📚 RAG & LoRa
 - 🤖 Projeto destaque: [Wine Price Predict](https://github.com/MacViniDss/DataScience-projects/blob/main/Projetos_praticos/Wine_price_predict/README.md)
 
 ###
