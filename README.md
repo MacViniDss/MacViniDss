@@ -18,31 +18,8 @@ atuar em todo o ciclo de vida dos projetos de dados, do desenvolvimento à imple
 Cientista de Dados Jr | AI Engineer em formação
 
 - 🔭 Focado em Machine Learning (ML)
-- 📚 RAG & LoRa
-- 🤖 Projeto destaque: [Wine Price Predict](https://github.com/MacViniDss/DataScience-projects/blob/main/Projetos_praticos/Wine_price_predict/README.md)
+- 🤖 Projeto destaque: [Assistente de Decisão Clínica com IA](https://github.com/MacViniDss/AI-Engineer-Intern---Technical-Assessment-)
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-</div>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
 
 ###
 Experiências e Formação Adicionais:
