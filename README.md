@@ -18,7 +18,7 @@ atuar em todo o ciclo de vida dos projetos de dados, do desenvolvimento à imple
 Cientista de Dados Jr | AI Engineer em formação
 
 - 🔭 Focado em Machine Learning (ML)
-- 🤖 Projeto destaque: [Assistente de Decisão Clínica com IA](https://github.com/MacViniDss/AI-Engineer-Intern---Technical-Assessment-)
+- 🤖 Projeto destaque: [Assistente de Decisão Clínica com IA](https://github.com/MacViniDss/clinical-ai-assistant-project)
 
 
 ###
