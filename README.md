@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Marcus Vinicius da Silva Souza</h1>
+<h1 align="center">Marcus Vinicius</h1>
 
 ### Sobre mim
 Cientista de Dados recém-formado (2025) e cursando **Pós-Graduação em Inteligência Artificial e Machine Learning** (2026).  
