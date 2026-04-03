@@ -1,31 +1,67 @@
+<h1 align="center">👋 Olá, eu sou Marcus Vinicius da Silva Souza</h1>
 
-###
+### Sobre mim
+Cientista de Dados recém-formado (2025) e cursando **Pós-Graduação em Inteligência Artificial e Machine Learning** (2026).  
 
-<h1 align="center">Seja Bem Vindo👋</h1>
+Tenho experiência prática com **LLMs, arquiteturas RAG, Telegram Bots em produção** e modelos de Machine Learning de alto desempenho. Domino **Python, FastAPI, Docker e deploy em cloud**.  
 
-###
+Busco posição de **Estágio ou Júnior** onde possa contribuir com soluções de IA escaláveis e de impacto real.
 
-<h3 align="left">👩‍💻  Info:</h3>
+---
 
-Python • SQL • Machine Learning • IA Generativa • Automação de Dados  
+### 🚀 Projetos em Destaque
 
-Possuo experiência prática em projetos que envolvem tratamento de dados, análise
-exploratória, modelagem preditiva e avaliação de modelos, além de familiaridade com
-ferramentas como Scikit-learn, SQL, MLflow, Docker e GCP. Também tenho interesse em
-atuar em todo o ciclo de vida dos projetos de dados, do desenvolvimento à implementação.
+**Detecção de Fraudes em Transações Bancárias**  
+*Machine Learning + MLOps*  
+[→ Ver repositório](https://github.com/MacViniDss/Personal-projects/tree/main/Projetos_praticos/fraud-detection)
 
-###
-Cientista de Dados Jr | AI Engineer em formação
+- Modelos de classificação (Regressão Logística, Random Forest e SVM) em dataset de 284 mil transações desbalanceadas  
+- Melhor modelo: **AUC-ROC 0.98** e **+400%** no F1-score da classe fraude  
+- API Flask + interface em Streamlit
 
-- 🔭 Focado em Machine Learning (ML)
-- 🤖 Projeto destaque: [Assistente de Decisão Clínica com IA](https://github.com/MacViniDss/clinical-ai-assistant-project)
+**Assistente IA de Decisão Clínica**  
+*LLM + Aplicação Médica*  
+[→ Ver repositório](https://github.com/MacViniDss/clinical-ai-assistant-project)
+
+- Assistente conversacional com **Google Gemini** para interpretação de diretrizes médicas e geração de planos de tratamento personalizados  
+- Interface web em Streamlit, memória persistente (SQLite) e system instructions rigorosas para segurança ética  
+- Aplicação prática de LLM na área da saúde
+
+---
+
+### 💼 Experiência
+
+**Exército Brasileiro** — Recife, PE  
+*Soldado / Cabo* | 2022 – 2026  
+- Agraciado com a **Honra ao Mérito** por desempenho técnico excepcional, disciplina e responsabilidade  
+- Liderança de pequenos grupos (Curso de Cabo – 2023) e gestão de indicadores de eficiência operacional
+
+**Intercâmbio Acadêmico PGM – Canadá**  
+*Estudante de Intercâmbio* | Jan/2020 – Jun/2020  
+- 6 meses de imersão acadêmica e cultural  
+- Desenvolvimento da disciplina World Issues e aprimoramento da proficiência em inglês
+
+---
+
+### 🎓 Formação Acadêmica
+
+- **Graduação em Ciência de Dados**  
+  Centro Universitário Anhanguera – Recife | 2025
+
+- **Pós-Graduação em Inteligência Artificial e Machine Learning** (em andamento)  
+  Centro Universitário Anhanguera – Recife | 2026
+
+---
+
+### 🛠️ Competências e Certificados
+
+**Tecnologias principais**  
+`Python` `FastAPI` `Scikit-learn` `Pandas` `NumPy` `PyTorch` `Hugging Face` `SQL` `Docker` `MLflow` `ChromaDB` `Streamlit` `GCP (BigQuery, Cloud Storage)`
+
+**LLMs & IA Generativa**  
+Google Gemini • Arquiteturas RAG • Telegram Bots • System Instructions • CI/CD
 
 
-###
-Experiências e Formação Adicionais:
-- Experiência Militar (Desde 2022): Atuação no quartel, que moldou competências essenciais como Liderança, Disciplina, Resiliência e Gestão de Grupos (Cabo 2023), aplicáveis à gestão de projetos e equipes de dados.
-- Agraciado com a Honra ao Mérito, distinção concedida a militares com desempenho técnico excepcional, disciplina exemplar e alto senso de responsabilidade durante o serviço ativo;
-- Experiência Internacional: Intercâmbio de 6 meses no Canadá (2020), que expandiu a visão de mundo, autonomia e capacidade de adaptação.
-- Contribuição Acadêmica: Apresentação de resumo  no SIMPICT-EAD (2023) sobre "Os desafios na formação profissional na educação a distância diante do excesso de dados na era digital", demonstrando interesse e produção intelectual na área de big data e educação.
-- Desenvolvimento Contínuo em IA: Participante ativo do Machine Learning Zoomcamp 2025 (DataTalks.Club), aprofundando conhecimentos em Machine Learning, Deep Learning e escalabilidade de modelos.
-- Experiência em Ciência de Dados e ML: Condução de projetos práticos de Machine Learning (Regressão e Classificação) utilizando Scikit-learn, com foco em pré-processamento avançado, otimização de modelos e avaliação de métricas.
+<p align="center">
+  <i>✅ Aberto a oportunidades de Estágio ou Júnior</i>
+</p>
