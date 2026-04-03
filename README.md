@@ -1,6 +1,3 @@
-<h1 align="center">Marcus Vinicius</h1>
-
-### Sobre mim
 Cientista de Dados recém-formado (2025) e cursando **Pós-Graduação em Inteligência Artificial e Machine Learning** (2026).  
 
 Tenho experiência prática com **LLMs, arquiteturas RAG, Telegram Bots em produção** e modelos de Machine Learning de alto desempenho. Domino **Python, FastAPI, Docker e deploy em cloud**.  
