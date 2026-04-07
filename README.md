@@ -24,9 +24,10 @@ Busco posição de **Estágio ou Júnior** onde possa contribuir com soluções 
 - Interface web em Streamlit, memória persistente (SQLite) e system instructions rigorosas para segurança ética  
 - Aplicação prática de LLM na área da saúde
 
-**Agente IA Aulas de Espanhol**
-*LLM + Telegram Bot*
+**Agente IA Aulas de Espanhol**  
+*LLM + Telegram Bot*  
 [→ Ver repositório](https://github.com/MacViniDss/espanhol-bot-dicas)
+
 - Desenvolvi agente conversacional com Google Gemini para aulas interativas, correção gramatical e prática de espanhol em tempo real.
 - Implementei memória de conversa e CI/CD completo com GitHub Actions para deploy automático.
 - Aplicação prática de LLM em produção via Telegram.
