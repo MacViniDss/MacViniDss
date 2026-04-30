@@ -6,7 +6,7 @@ Busco posição de **Estágio ou Júnior** onde possa contribuir com soluções 
 
 ---
 
-### 🚀 Projetos em Destaque
+### Projetos em Destaque
 
 **Detecção de Fraudes em Transações Bancárias**  
 *Machine Learning + MLOps*  
@@ -34,7 +34,7 @@ Busco posição de **Estágio ou Júnior** onde possa contribuir com soluções 
 
 ---
 
-### 💼 Experiência
+### Experiência
 
 **Exército Brasileiro** — Recife, PE  
 *Soldado / Cabo* | 2022 – 2026  
@@ -48,17 +48,7 @@ Busco posição de **Estágio ou Júnior** onde possa contribuir com soluções 
 
 ---
 
-### 🎓 Formação Acadêmica
-
-- **Graduação em Ciência de Dados**  
-  Centro Universitário Anhanguera – Recife | 2025
-
-- **Pós-Graduação em Inteligência Artificial e Machine Learning** (em andamento)  
-  Centro Universitário Anhanguera – Recife | 2026
-
----
-
-### 🛠️ Competências e Certificados
+### Competências e Certificados
 
 **Tecnologias principais**  
 `Python` `FastAPI` `Scikit-learn` `Pandas` `NumPy` `PyTorch` `Hugging Face` `SQL` `Docker` `MLflow` `ChromaDB` `Streamlit` `GCP (BigQuery, Cloud Storage)`
@@ -68,5 +58,5 @@ Google Gemini • Arquiteturas RAG • Telegram Bots • System Instructions •
 
 
 <p align="center">
-  <i>✅ Aberto a oportunidades de Estágio ou Júnior</i>
+  <i> Aberto a oportunidades de Estágio ou Júnior</i>
 </p>
