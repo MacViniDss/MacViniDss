@@ -34,20 +34,6 @@ Busco posição de **Estágio ou Júnior** onde possa contribuir com soluções 
 
 ---
 
-### Experiência
-
-**Exército Brasileiro** — Recife, PE  
-*Soldado / Cabo* | 2022 – 2026  
-- Agraciado com a **Honra ao Mérito** por desempenho técnico excepcional, disciplina e responsabilidade  
-- Liderança de pequenos grupos (Curso de Cabo – 2023) e gestão de indicadores de eficiência operacional
-
-**Intercâmbio Acadêmico PGM – Canadá**  
-*Estudante de Intercâmbio* | Jan/2020 – Jun/2020  
-- 6 meses de imersão acadêmica e cultural  
-- Desenvolvimento da disciplina World Issues e aprimoramento da proficiência em inglês
-
----
-
 ### Competências e Certificados
 
 **Tecnologias principais**  
